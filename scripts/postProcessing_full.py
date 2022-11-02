@@ -21,6 +21,7 @@ import os
 import glob
 import shelve
 import scripts.functions_spinning_rafts as fsr
+import h5py
 
 
 rootFolderNameFromWindows = r'D:\\VideoProcessingFolder'  # r'E:\Data_Camera_Basler_acA800-510uc_coilSystem'
